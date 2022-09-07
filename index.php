@@ -12,6 +12,7 @@
 <ul>
     <li><a href="docente.php">Docentes</a></li>
     <li><a href="estrategia.php">estrategia</a></li>
+    <li><a href="estrategia.php">estrategia</a></li>
 </ul>
 
 
